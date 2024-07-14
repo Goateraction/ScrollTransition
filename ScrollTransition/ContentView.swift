@@ -9,6 +9,8 @@
 //  -> @Goateraction
 //
 
+// used in the Space Diary App 😄
+// https://apps.apple.com/app/id6499088381
 
 import SwiftUI
 
